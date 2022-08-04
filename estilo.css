@@ -1,6 +1,13 @@
 body {
-  background: black;
+  background: pink;
 }
- h1 {
+h1 {
    text-align: center;
  }
+
+.caixal {
+  position:relative;
+  width: 200xp;
+  height: 200xp;
+  background: #;
+}
